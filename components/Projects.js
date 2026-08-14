@@ -42,14 +42,6 @@ export default function Projects() {
       date: "Nov 2024"
     },
     {
-      title: "El Hariry Print Landing Page",
-      description: "Three.js-powered landing page with 3D elements, dark mode, and Arabic/English localization for a print business.",
-      tech: ["Three.js", "JavaScript", "i18n"],
-      link: "https://hariry-print.com",
-      github: "https://github.com/Omarahmed1925",
-      date: "2024"
-    },
-    {
       title: "NewsApp",
       description: "Real-time news app integrating NewsAPI with category browsing (Business, Sports, Tech, Health), article details, keyword search, and in-app or browser reading.",
       tech: ["Flutter", "BLoC/Cubit", "NewsAPI"],
