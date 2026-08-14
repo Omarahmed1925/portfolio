@@ -21,7 +21,7 @@ export default function Projects() {
       "Multi-layer SharedPreferences caching for offline use"
     ],
     tech: ["Flutter", "BLE", "Mapbox", "Supabase", "Clean Architecture"],
-    github: "https://github.com/omarahmedanwar",
+    github: "https://github.com/Omarahmed1925",
     date: "Jul 2026",
     featured: true
   };
@@ -31,14 +31,14 @@ export default function Projects() {
       title: "MoviesApp",
       description: "Movie exploration app with Clean Architecture and BLoC, featuring trending/popular/top-rated categories, genre filtering, full movie details, and keyword search.",
       tech: ["Flutter", "Clean Architecture", "BLoC", "REST API"],
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "Sep 2025"
     },
     {
       title: "Internir2",
       description: "Cross-platform internship platform connecting students with opportunities, letting companies post listings. Firebase auth, real-time updates, location-based services.",
       tech: ["Flutter", "Firebase", "REST API"],
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "Nov 2024"
     },
     {
@@ -46,28 +46,28 @@ export default function Projects() {
       description: "Three.js-powered landing page with 3D elements, dark mode, and Arabic/English localization for a print business.",
       tech: ["Three.js", "JavaScript", "i18n"],
       link: "https://hariry-print.com",
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "2024"
     },
     {
       title: "NewsApp",
       description: "Real-time news app integrating NewsAPI with category browsing (Business, Sports, Tech, Health), article details, keyword search, and in-app or browser reading.",
       tech: ["Flutter", "BLoC/Cubit", "NewsAPI"],
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "Aug 2025"
     },
     {
       title: "EventlyApp",
       description: "Event discovery and management app with category browsing, event creation, and Google Maps integration for exact venue location display.",
       tech: ["Flutter", "Google Maps API", "REST API"],
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "Jul 2025"
     },
     {
       title: "Islami",
       description: "Full-featured Islamic app with Qur'an tab (114 Surahs), Ahadeeth collection, live Islamic radio streaming with reciters list, and a digital Tasbeeh counter.",
       tech: ["Flutter", "Provider"],
-      github: "https://github.com/omarahmedanwar",
+      github: "https://github.com/Omarahmed1925",
       date: "Jul 2025"
     }
   ];

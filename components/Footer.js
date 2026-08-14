@@ -6,8 +6,8 @@ import { GitHubIcon, LinkedInIcon } from "./Icons";
 
 export default function Footer() {
   const socialLinks = [
-    { icon: GitHubIcon, href: "https://github.com/omarahmedanwar", label: "GitHub" },
-    { icon: LinkedInIcon, href: "https://linkedin.com/in/omar-ahmed-anwar", label: "LinkedIn" },
+    { icon: GitHubIcon, href: "https://github.com/Omarahmed1925", label: "GitHub" },
+    { icon: LinkedInIcon, href: "https://www.linkedin.com/in/omar-ahmedanwar/", label: "LinkedIn" },
     { icon: Mail, href: "mailto:oa718307@gmail.com", label: "Email" },
   ];
 
