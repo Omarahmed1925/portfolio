@@ -49,9 +49,9 @@ export default function About() {
             <div className="bg-neutral-900/50 border border-neutral-800 rounded-xl p-6">
               <h3 className="text-xl font-semibold mb-4">Current Focus</h3>
               <p className="text-neutral-400 leading-relaxed">
-                Building <span className="text-neutral-100 font-medium">Ambient</span>, 
-                an AI-powered smart campus navigation app that combines BLE beacon positioning 
-                with LLM-driven assistance for real-time indoor navigation with 1–3m accuracy.
+                Expanding backend expertise through a <span className="text-neutral-100 font-medium">Java Spring Boot</span> course 
+                at Route IT Training Center, building on mobile development experience with Flutter to become 
+                a full-stack developer.
               </p>
             </div>
 

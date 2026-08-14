@@ -38,8 +38,8 @@ export default function Hero() {
 
               <p className="text-lg md:text-xl text-neutral-400 max-w-2xl mb-10 leading-relaxed">
                 Flutter developer specializing in Clean Architecture, BLoC/Cubit state management, 
-                and real-time systems. Currently building an AI-powered indoor campus navigation 
-                platform combining BLE beacon positioning with LLM-driven assistance.
+                and real-time systems. Currently expanding expertise in backend development through 
+                a Java Spring Boot course at Route IT Training Center.
               </p>
 
               <div className="flex flex-wrap gap-4">
@@ -94,7 +94,7 @@ export default function Hero() {
                 <div className="space-y-6">
                   <div className="flex items-center justify-between pb-4 border-b border-neutral-800">
                     <span className="text-neutral-500 text-sm">Currently</span>
-                    <span className="text-neutral-300 text-sm font-medium">Building Ambient</span>
+                    <span className="text-neutral-300 text-sm font-medium">Java Spring Boot Course</span>
                   </div>
                   <div className="space-y-3 text-sm">
                     <div className="flex justify-between">

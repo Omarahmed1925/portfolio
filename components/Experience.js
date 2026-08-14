@@ -10,6 +10,18 @@ export default function Experience() {
 
   const experiences = [
     {
+      period: "Dec 2025 – Present",
+      title: "Java Spring Boot Backend Development Course",
+      organization: "Route IT Training Center 2014",
+      location: "Cairo, Egypt",
+      description: [
+        "Currently enrolled in an intensive backend development program focusing on Java Spring Boot ecosystem and RESTful API design",
+        "Learning Spring Framework, Spring Boot, Spring Data JPA, Spring Security, and microservices architecture",
+        "Building production-grade backend applications with PostgreSQL, JWT authentication, and industry best practices"
+      ],
+      tags: ["Java", "Spring Boot", "REST APIs", "PostgreSQL", "Microservices"]
+    },
+    {
       period: "Mar 2025 – Sep 2025",
       title: "Flutter Diploma, Mobile App Development",
       organization: "Route IT Training Center 2014",
