@@ -10,6 +10,18 @@ export default function Experience() {
 
   const experiences = [
     {
+      period: "Jul 2025 – Aug 2025",
+      title: "Full Stack Intern",
+      organization: "Xceed Software Solutions",
+      location: "Cairo, Egypt",
+      description: [
+        "Developed full-stack web applications using .NET and ASP.NET Core for backend services",
+        "Built responsive user interfaces with HTML, CSS, and JavaScript",
+        "Collaborated with team members on RESTful API design and implementation"
+      ],
+      tags: [".NET", "ASP.NET Core", "HTML", "CSS", "JavaScript"]
+    },
+    {
       period: "Dec 2025 – Present",
       title: "Java Spring Boot Backend Development Course",
       organization: "Route IT Training Center 2014",
@@ -20,6 +32,18 @@ export default function Experience() {
         "Building production-grade backend applications with PostgreSQL, JWT authentication, and industry best practices"
       ],
       tags: ["Java", "Spring Boot", "REST APIs", "PostgreSQL", "Microservices"]
+    },
+    {
+      period: "Jul 2022 – Aug 2022",
+      title: "Intern",
+      organization: "TODO: Company Name",
+      location: "Cairo, Egypt",
+      description: [
+        "Contributed to development and testing of internal projects",
+        "Gained hands-on experience with industry practices and tools",
+        "Collaborated with senior developers on various technical tasks"
+      ],
+      tags: ["Development", "Learning"]
     },
     {
       period: "Mar 2025 – Sep 2025",
@@ -46,7 +70,7 @@ export default function Experience() {
       tags: ["Flutter", "Provider", "REST APIs", "Kotlin"]
     },
     {
-      period: "Jul 2023 – Aug 2023",
+      period: "Jul 2022 – Aug 2022",
       title: "Networking and VoIP Intern",
       organization: "IST, Cisco Department",
       location: "Cairo, Egypt",
