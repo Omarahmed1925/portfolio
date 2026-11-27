@@ -70,7 +70,7 @@ export default function Projects() {
       tech: ["Flutter", "Clean Architecture", "BLoC", "Firebase", "REST API"],
       github: "https://github.com/Omarahmed1925/ecommerce",
       date: "2025",
-      image: "/projects/ecommerce/screenshot1.webp",
+      image: "/projects/ecommerce/screenshot2.webp",
       screenshots: [
         "/projects/ecommerce/screenshot1.webp",
         "/projects/ecommerce/screenshot2.webp",
@@ -88,7 +88,7 @@ export default function Projects() {
       tech: ["Flutter", "Clean Architecture", "BLoC", "REST API"],
       github: "https://github.com/Omarahmed1925",
       date: "Sep 2025",
-      image: "/projects/moviesapp/screenshot1.webp",
+      image: "/projects/moviesapp/screenshot2.webp",
       screenshots: [
         "/projects/moviesapp/screenshot1.webp",
         "/projects/moviesapp/screenshot2.webp",
@@ -106,7 +106,7 @@ export default function Projects() {
       tech: ["Flutter", "BLoC/Cubit", "NewsAPI"],
       github: "https://github.com/Omarahmed1925/newsApp",
       date: "Aug 2025",
-      image: "/projects/newsapp/screenshot1.webp",
+      image: "/projects/newsapp/screenshot2.webp",
       screenshots: [
         "/projects/newsapp/screenshot1.webp",
         "/projects/newsapp/screenshot2.webp",
@@ -123,7 +123,7 @@ export default function Projects() {
       tech: ["Flutter", "Google Maps API", "REST API"],
       github: "https://github.com/Omarahmed1925",
       date: "Jul 2025",
-      image: "/projects/eventlyapp/screenshot1.webp",
+      image: "/projects/eventlyapp/screenshot4.webp",
       screenshots: [
         "/projects/eventlyapp/screenshot1.webp",
         "/projects/eventlyapp/screenshot2.webp",
@@ -141,7 +141,7 @@ export default function Projects() {
       tech: ["Flutter", "Provider", "Local Storage"],
       github: "https://github.com/Omarahmed1925/Islami",
       date: "Jul 2025",
-      image: "/projects/islami/screenshot1.webp",
+      image: "/projects/islami/screenshot3.webp",
       screenshots: [
         "/projects/islami/screenshot1.webp",
         "/projects/islami/screenshot2.webp",
