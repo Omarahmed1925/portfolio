@@ -188,11 +188,11 @@ export default function Projects() {
             <div className="relative bg-neutral-900 border-2 border-neutral-800 rounded-3xl overflow-hidden hover:border-neutral-700 transition-all duration-300">
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-12">
                 {featuredProject.image && (
-                  <div className="relative h-64 lg:h-auto bg-neutral-800 overflow-hidden order-2 lg:order-2 cursor-pointer group/image" onClick={() => openGallery("featured", "Ambient")}>
+                  <div className="relative h-64 lg:h-[520px] bg-neutral-800 overflow-hidden order-2 lg:order-2 cursor-pointer group/image" onClick={() => openGallery("featured", "Ambient")}>
                     <img
                       src={featuredProject.image}
                       alt={featuredProject.title}
-                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                      className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-300"
                       onError={(e) => {
                         e.target.style.display = 'none';
                         e.target.parentElement.style.display = 'none';
